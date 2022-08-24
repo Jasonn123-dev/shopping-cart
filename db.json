@@ -1,0 +1,65 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "I have The Watch",
+      "description": "No home to commute to. You live and lead side-by-side with the crew, every day",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41reHos9uDL._SX331_BO1,204,203,200_.jpg",
+      "price": 799
+    },
+    {
+      "id": 2,
+      "name": "All In the same Boat",
+      "description": "An emotionless and indifferent enemy constantly surrounds the crew. Thousands of pounds of sea pressure sit right over their heads",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41-KhwqU0aS._SX331_BO1,204,203,200_.jpg",
+      "price": 679
+    },
+    {
+      "id": 3,
+      "name": "The Smartest Person",
+      "description": "Learn from Christians own journey from cybersecurity engineer to company CEO. He describes why a high IQ is a lost superpower when effective communication",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41QKb9RpbnL._SX322_BO1,204,203,200_.jpg",
+      "price": 259
+    },
+    {
+      "id": 4,
+      "name": "Dark Physocology",
+      "description": "Its no secret that people around you have been using dark psychology to cause you unwanted negative experiences and influence your decision-making",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41tJ42hQ-KL._SX331_BO1,204,203,200_.jpg",
+      "price": 499
+    },
+    {
+      "id": 5,
+      "name": "Dark and Manipulation",
+      "description": "No home to commute to. You live and lead side-by-side with the crew, every day",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41XbWk9WsqL._SX331_BO1,204,203,200_.jpg",
+      "price": 999
+    },
+    {
+      "id": 6,
+      "name": "I Love It Here",
+      "description": "revealing the best methods for identifying talent, building a sense of ownership, and developing a successful workplace culture that employees will love",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/418w9ViSSiL._SX372_BO1,204,203,200_.jpg",
+      "price": 499
+    }
+
+  ],
+  "cart": [],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
